@@ -1,0 +1,24 @@
+{
+  "name": "web_api_express",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/parelhutahaean/web_api_express.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/parelhutahaean/web_api_express/issues"
+  },
+  "homepage": "https://github.com/parelhutahaean/web_api_express#readme",
+  "dependencies": {
+    "bcrypt": "^1.0.2",
+    "jsonwebtoken": "^7.4.1"
+  }
+}
